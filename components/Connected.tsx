@@ -22,13 +22,13 @@ const Connected: FC = () => {
                         noOfLines={1}
                         textAlign="center"
                     >
-                        Welcome Buildoor.
+                        Welcome Stresso.
                     </Heading>
 
                     <Text color="bodyText" fontSize="xl" textAlign="center">
-                        Each buildoor is randomly generated and can be staked to receive
-                        <Text as="b"> $BLD</Text> Use your <Text as="b"> $BLD</Text> to
-                        upgrade your buildoor and receive perks within the community!
+                        Each Stresso is randomly generated and can be staked to receive
+                        <Text as="b"> $STO</Text> Use your <Text as="b"> $STO</Text> to
+                        upgrade your Stresso and receive perks within the community!
                     </Text>
                 </VStack>
             </Container>
